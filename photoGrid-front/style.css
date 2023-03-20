@@ -2,6 +2,22 @@ body{
     width: 100%;
     background-color: tomato;
 }
+header{
+    
+    position: fixed;
+   
+
+}
+
+.botaoHeader{
+    margin-top: 10px;
+    margin-left: 1750px;
+    background-color: red;
+    border-radius: 20px;
+    padding: 20px;
+    border: wheat;
+    color: wheat;
+}
 
 .cardCorpo{
     
@@ -10,7 +26,7 @@ body{
     text-align: center;
     background-color: whitesmoke;
     width: 20%;
-    height: 400px;
+    height: 500px;
   
 
 
@@ -45,7 +61,8 @@ p{
     margin: auto;
     width: 90%;
     height: 30%;
-    margin-bottom: 10px;
+    
 
     
 }
+
